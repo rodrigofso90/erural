@@ -3,7 +3,7 @@
 
 • Descrição inicial do sistema.
 • Login de acesso utilizando usuário e senha; (Email: eve.holt@reqres.in | Senha: cityslicka)
-• Formulário de cadastro de cliente; 
+
 
 
 Tecnologias Utilizadas:
