@@ -1,8 +1,8 @@
 # erural VT
  Sistema de Transmissão de vídeo:
 
-• Descrição inicial do sistema.
-• Login de acesso utilizando usuário e senha; (Email: eve.holt@reqres.in | Senha: cityslicka)
+• Descrição inicial do sistema(Inicio).
+• Login de acesso utilizando usuário e senha (Nova Sala); (Email: eve.holt@reqres.in | Senha: cityslicka)
 
 
 
